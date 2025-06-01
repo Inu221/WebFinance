@@ -17,6 +17,7 @@
     "express": "^5.1.0",
     "mongoose": "^8.15.1",
     "node-cron": "^4.0.7",
-    "xml2js": "^0.6.2"
+    "xml2js": "^0.6.2",
+    "yahoo-finance2": "^2.13.3"
   }
 }
